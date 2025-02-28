@@ -82,7 +82,7 @@ nav li a {
 }
 nav ul li:hover {
 
-  background-color: red;
+  background-color: yellow;
 
 }
 nav ul li ul {
@@ -122,7 +122,7 @@ nav ul li ul {
 }
 nav ul li ul li { 
 
-  background-color: green;
+  background-color: violet;
 
   display: block; 
 
@@ -133,7 +133,7 @@ nav ul li ul li {
 }
 nav ul li ul li:hover { 
 
-background-color: steelblue;
+background-color: yellow;
 
 }
 
@@ -148,7 +148,7 @@ nav ul li:hover ul {
 }
 nav ul li ul li:hover { 
 
-background-color: yellow;
+background-color: white;
 
 }
 
